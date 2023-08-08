@@ -1,0 +1,10 @@
+body {
+  background-color: #00CED1;
+}
+#jogos{
+    display:flex;flex-wrap: wrap;
+    justify-content: center;
+}
+.divs{
+    margin: 30px;
+}
